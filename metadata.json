@@ -1,0 +1,6 @@
+{
+  "name": "QR-Based Farm Management System - U & E Grace Foundation Farm",
+  "description": "Digital farm record keeping, QR code generation & scanning, asset management, activity logs, inventory tracking, and reports for U and E Grace Foundation Farm, Ikot Ekpene.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
