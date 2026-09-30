@@ -93,7 +93,7 @@ export const LoginModal: React.FC = () => {
                 </h2>
               </div>
               <p className="text-xs text-emerald-300 font-medium">
-                U & E Grace Foundation Farm, Ikot Ekpene · Digital Portal Login
+                U & E Grace Foundation Farm, Obio Ndot · Digital Portal Login
               </p>
             </div>
           </div>

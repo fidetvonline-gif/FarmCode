@@ -170,7 +170,7 @@ export async function testSupabaseConnection(): Promise<{ success: boolean; mess
 
 // SQL Schema script for user reference in Supabase SQL Editor
 export const SUPABASE_SCHEMA_SQL = `-- =========================================================================
--- U & E GRACE FOUNDATION FARM, IKOT EKPENE - SUPABASE POSTGRESQL SCHEMA
+-- U & E GRACE FOUNDATION FARM, OBIO NDOT - SUPABASE POSTGRESQL SCHEMA
 -- Execute this script in the Supabase Dashboard -> SQL Editor -> Run
 -- =========================================================================
 

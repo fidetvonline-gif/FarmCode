@@ -111,7 +111,7 @@ export const Dashboard: React.FC = () => {
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <div>
               <div className="flex items-center gap-2 mb-2 text-xs font-semibold text-emerald-300">
-                <span>Ikot Ekpene, Akwa Ibom State</span>
+                <span>Obio Ndot, Akwa Ibom State</span>
                 <span>•</span>
                 <span>Operations & Asset Management</span>
               </div>

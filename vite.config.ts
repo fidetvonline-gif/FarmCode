@@ -16,7 +16,7 @@ export default defineConfig(() => {
           id: '/',
           name: 'U & E Grace Farm QR Management',
           short_name: 'UE Farm QR',
-          description: 'Quick Response (QR) Code based Farm Management System for U & E Grace Foundation Farm, Ikot Ekpene',
+          description: 'Quick Response (QR) Code based Farm Management System for U & E Grace Foundation Farm, Obio Ndot',
           theme_color: '#064e3b',
           background_color: '#064e3b',
           display: 'standalone',

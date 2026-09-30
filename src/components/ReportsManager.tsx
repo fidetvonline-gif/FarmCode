@@ -75,7 +75,7 @@ export const ReportsManager: React.FC = () => {
               U & E GRACE FOUNDATION FARM
             </h2>
             <p className="text-xs text-slate-600">
-              Ikot Ekpene, Akwa Ibom State, Nigeria · QR-Code Based Information System
+              Obio Ndot, Akwa Ibom State, Nigeria · QR-Code Based Information System
             </p>
           </div>
 

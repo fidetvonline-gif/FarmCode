@@ -61,7 +61,7 @@ function MainLayout() {
       <footer className="bg-slate-900 text-slate-400 py-6 border-t border-slate-800 text-xs mt-auto print:hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-medium text-slate-300">
-            U & E Grace Foundation Farm, Ikot Ekpene, Akwa Ibom State · QR Code Based System for Farm Management
+            U & E Grace Foundation Farm, Obio Ndot, Akwa Ibom State · QR Code Based System for Farm Management
           </p>
           <p className="text-[11px] text-slate-500">
             PWA Enabled · PostgreSQL Database with Supabase · QR Identification · Activity Tracking

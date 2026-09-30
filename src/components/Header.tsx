@@ -52,7 +52,7 @@ export const Header: React.FC = () => {
               </span>
             </div>
             <p className="text-xs text-emerald-300 font-medium tracking-wide">
-              Ikot Ekpene · QR Farm Management System
+              Obio Ndot · QR Farm Management System
             </p>
           </div>
         </div>
